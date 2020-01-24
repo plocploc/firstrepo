@@ -1,0 +1,127 @@
+﻿Issue_Id,Title,Organisation Unit Name,Issue Title,Issue Status
+4012,ERM maturity,BIS07 Project Portfolio Management,BIS 4012 ERM assessment - Verbetering nodig in beheersing future fit projecten,Closed by Business
+4012,ERM Maturity - Themes,BIS07 Project Portfolio Management,BIS 4012 ERM assessment - Verbetering nodig in beheersing future fit projecten,Closed by Business
+4012,NL BIS ERM,BIS07 Project Portfolio Management,BIS 4012 ERM assessment - Verbetering nodig in beheersing future fit projecten,Closed by Business
+4012,NL BIS PCO,BIS07 Project Portfolio Management,BIS 4012 ERM assessment - Verbetering nodig in beheersing future fit projecten,Closed by Business
+4383,NL BIS Architectuur,BIS05 Continuity Management,BIS 4383 - Performance DR network,Accepted
+4383,NL BIS Security,BIS05 Continuity Management,BIS 4383 - Performance DR network,Accepted
+4493,,BIS06 Security Management,BIS 4439 - CMT exercise - exchange information between teams,Raised
+4495,NL BIS Security,BIS05 Continuity Management,BIS 4495 - CMT exercise - logging and share information,Accepted
+4526,NL BIS BLS Object,BIS06 Security Management,BIS 4526 Gevoelige data in URL websites,Accepted
+4526,NL BIS MT,BIS06 Security Management,BIS 4526 Gevoelige data in URL websites,Accepted
+4526,NL BIS Online,BIS06 Security Management,BIS 4526 Gevoelige data in URL websites,Accepted
+4526,NL BIS Security,BIS06 Security Management,BIS 4526 Gevoelige data in URL websites,Accepted
+4526,Privacy,BIS06 Security Management,BIS 4526 Gevoelige data in URL websites,Accepted
+4726,NL BIS Security,BIS17 Identity and Access Management,IB&DP 4726 Primary focus on integrity during user access and not confidentiality or availability,Closed by Business
+4733,NL BIS Platform management,BIS17 Identity and Access Management,BIS 4733 - Access reviews on IT4IT tooling incomplete (authorizations missing),Accepted
+4734,NL BIS Security,BIS06 Security Management,BIS 4734 - No security lifecycle control on encryption,Raised
+4736,NL BIS Platform management,BIS10 Release Management,BIS 4736 - UCD Snapshot not frozen,Accepted
+4738,NL BIS D&I,BIS09 Functional Change Management,BIS 4738 Code Quality,Accepted
+4738,NL BIS ITSM,BIS09 Functional Change Management,BIS 4738 Code Quality,Accepted
+4741,NL BIS ITSM,BIS19 Service Request Management,BIS 4741 Service desk employees have high privilege accounts and are not monitored sufficiently,Accepted
+4992,NL BIS DNB self assessment 2019,BIS17 Identity and Access Management,BIS 4992 Limited logging and monitoring,Accepted
+4992,NL BIS ITCF,BIS17 Identity and Access Management,BIS 4992 Limited logging and monitoring,Accepted
+4992,NL BIS Security,BIS17 Identity and Access Management,BIS 4992 Limited logging and monitoring,Accepted
+4995,NL BIS Security,BIS17 Identity and Access Management,BIS 4995 Verbetering mogelijk in identity en access management,Accepted
+5171,NL BIS Platform management,BIS15 Operational Management and Monitoring,BIS 5171 Verbetering benodigd in (keten) monitoring,Accepted
+5171,NL BIS SEA,BIS15 Operational Management and Monitoring,BIS 5171 Verbetering benodigd in (keten) monitoring,Accepted
+5277,NL BIS Architectuur,BIS03 Architecture,BIS 5277 Verbetering nodig in bewaking architectuur naleving tijdens changes,Accepted
+5279,NL BIS Architectuur,BIS03 Architecture,BIS 5279 Verbetering nodig in monitoring gebruik architectuur standaarden,Accepted
+6010,NL BIS Security,BIS06 Security Management,BIS 6010 - Add service accounts to the scope of BISC088 and C114,Raised
+6014,NL BIS ITCF,BIS17 Identity and Access Management,BIS 6014 - Drupal needs to kill (if possible) the user session when inactive,Accepted
+6037,NL BIS ITCF,BIS17 Identity and Access Management,BIS 6037 Insufficient management of shared access account,Accepted
+6037,NL BIS Security,BIS17 Identity and Access Management,BIS 6037 Insufficient management of shared access account,Accepted
+6052,NL BIS ITCF,BIS09 Functional Change Management,HR 6052 Workday - Testen met geanonimiseerde data is niet gegarandeerd,Closed by Business
+6052,Privacy,BIS09 Functional Change Management,HR 6052 Workday - Testen met geanonimiseerde data is niet gegarandeerd,Closed by Business
+6768,NL BIS ITCF,BIS17 Identity and Access Management,"HR 6768 VerzuimXpert, Connexys en Lifeguard - Niet alle toegangsrechten verlopen via IMG",Accepted
+6769,NL BIS ITCF,BIS17 Identity and Access Management,"HR 6769 VerzuimXpert, Connexys en Lifeguard - Screen Lockout settings",Accepted
+6769,NL BIS SEA,BIS17 Identity and Access Management,"HR 6769 VerzuimXpert, Connexys en Lifeguard - Screen Lockout settings",Accepted
+6770,NL BIS ITCF,BIS17 Identity and Access Management,HR 6770 Integration Gateway,Closed by Business
+6770,NL BIS SEA,BIS17 Identity and Access Management,HR 6770 Integration Gateway,Closed by Business
+6956,IT audit,BIS17 Identity and Access Management,BIS 6956 Not all privileged accounts are structurally logged and monitored,Accepted
+6956,NL BIS Security,BIS17 Identity and Access Management,BIS 6956 Not all privileged accounts are structurally logged and monitored,Accepted
+6957,IT audit,BIS17 Identity and Access Management,BIS 6957 Service accounts are not fully part of the formal identity and access management controls,Accepted
+6957,NL BIS Security,BIS17 Identity and Access Management,BIS 6957 Service accounts are not fully part of the formal identity and access management controls,Accepted
+7005,NL BIS Security,BIS05 Continuity Management,BIS 7005 - Failed applications DR test March 2019,Accepted
+7050,NL BIS Security,BIS09 Functional Change Management,FS 7050 - CASE CENTRAAL - ITCF assessment 2019Q1 - lacking access and change management controls,Raised
+7056,NL BIS ITCF,BIS06 Security Management,LB 7056 - AELINK - ITCF assessment 2019Q1 - Lacking access and change management controls,Closed by Business
+7057,NL BIS ITCF,BIS06 Security Management,LB 7057 - SERVICENET - ITCF assessment 2019Q1 - Lacking access and change management controls,Accepted
+7059,NL BIS ITCF,BIS10 Release Management,BIS 7059 - MFR applications - ITCF assessment 2018Q4 - Lacking source code access control,Accepted
+7059,NL BIS Platform management,BIS10 Release Management,BIS 7059 - MFR applications - ITCF assessment 2018Q4 - Lacking source code access control,Accepted
+7059,NL BIS Security,BIS10 Release Management,BIS 7059 - MFR applications - ITCF assessment 2018Q4 - Lacking source code access control,Accepted
+7161,NL BIS Security health checks,BIS06 Security Management,FB 7161 Security Test Paragon,Closed by Business
+7555,NL BIS SEA,BIS17 Identity and Access Management,SOx SOCD Interim 2019: no follow up on interface Workday-IGL,Closed by Business
+7839,NL BIS Security,BIS05 Continuity Management,BIS 7839 Rol NL BCM bij analyse en correctieve acties cyber aanvallen niet duidelijk,Accepted
+7904,NL BIS Security health checks,BIS06 Security Management,FS 7904 Issue out of health check on supplier BaaB Claimcare,Accepted
+7925,NL BIS Platform management,BIS10 Release Management,BIS 7925 Inbeheername checklist,Accepted
+7972,NL BIS BLS Income,BIS06 Security Management,Inkomen 7972 Issues out of health check on supplier LIJV,Accepted
+7972,NL BIS Security health checks,BIS06 Security Management,Inkomen 7972 Issues out of health check on supplier LIJV,Accepted
+7975,NL BIS SEA,BIS06 Security Management,HR 7975 Issue out of health check on supplier Springest,Accepted
+7975,NL BIS Security health checks,BIS06 Security Management,HR 7975 Issue out of health check on supplier Springest,Accepted
+7983,IT audit,BIS06 Security Management,BIS 7983 Inadequate assessment and incomplete escalation of vulnerabilities,Closed by Business
+7983,NL BIS Security,BIS06 Security Management,BIS 7983 Inadequate assessment and incomplete escalation of vulnerabilities,Closed by Business
+7984,IT audit,BIS06 Security Management,"BIS 7984 Inadequate description of procedures, roles and responsibilities regarding vulnerabilities",Accepted
+7984,NL BIS Security,BIS06 Security Management,"BIS 7984 Inadequate description of procedures, roles and responsibilities regarding vulnerabilities",Accepted
+7985,IT audit,BIS06 Security Management,BIS 7985 Lack of completeness of asset inventories,Accepted
+7995,NL BIS Security health checks,BIS06 Security Management,Hypotheken 7995 Issues out of health check on HDN Beheer,Accepted
+7996,NL BIS DNB self assessment 2019,BIS06 Security Management,BIS 7996 No monitoring if pentests are planned according to policy,Raised
+7996,NL BIS Security,BIS06 Security Management,BIS 7996 No monitoring if pentests are planned according to policy,Raised
+7998,NL BIS Security health checks,BIS06 Security Management,BIS 7998 Issues out of health check on supplier EY,Accepted
+8021,NL BIS Security health checks,BIS06 Security Management,BIS 8021Issues out of health check on supplier Capgemini,Accepted
+8022,NL BIS BLS Income,BIS06 Security Management,Inkomen 8022 Issues out of the health check supplier Ergatis,Accepted
+8022,NL BIS Security health checks,BIS06 Security Management,Inkomen 8022 Issues out of the health check supplier Ergatis,Accepted
+8035,NL BIS BLS Income,BIS06 Security Management,Inkomen 8035 Issues out of health check on supplier Regio Poortwachters .,Raised
+8035,NL BIS Security health checks,BIS06 Security Management,Inkomen 8035 Issues out of health check on supplier Regio Poortwachters .,Raised
+8048,NL BIS Security,BIS06 Security Management,BIS 8048 Lack of security metrics (EY capability assessment),Raised
+8058,NL BIS BLS Income,BIS06 Security Management,Inkomen 8058 Issues out of Health check on supplier Condite B.V.,Raised
+8058,NL BIS Security health checks,BIS06 Security Management,Inkomen 8058 Issues out of Health check on supplier Condite B.V.,Raised
+8094,NL BIS DNB self assessment 2019,BIS06 Security Management,BIS 8094 Implementation of secret management is not monitored (EY capability assessment),Accepted
+8094,NL BIS Security,BIS06 Security Management,BIS 8094 Implementation of secret management is not monitored (EY capability assessment),Accepted
+8096,NL BIS DNB self assessment 2019,BIS04 Quality management,BIS 8096 No central monitoring over the application life cycles.,Raised
+8096,NL BIS Security,BIS04 Quality management,BIS 8096 No central monitoring over the application life cycles.,Raised
+8101,NL BIS BLS Income,BIS06 Security Management,Inkomen 8101 Issues out of Health check on supplier; Pensioen B.V.,Raised
+8101,NL BIS Security health checks,BIS06 Security Management,Inkomen 8101 Issues out of Health check on supplier; Pensioen B.V.,Raised
+8103,NL BIS BLS Income,BIS06 Security Management,Inkomen 8103 Issues out of health check on supplier; Engage Werkgeversadvies B.V.,Raised
+8103,NL BIS Security health checks,BIS06 Security Management,Inkomen 8103 Issues out of health check on supplier; Engage Werkgeversadvies B.V.,Raised
+8104,NL BIS BLS Income,BIS06 Security Management,Inkomen 8104 Issues out of health check on supplier; Welke professional,Raised
+8104,NL BIS Security health checks,BIS06 Security Management,Inkomen 8104 Issues out of health check on supplier; Welke professional,Raised
+8141,NL BIS ITSM,BIS13 Problem Management,BIS 8141 Verbetering op problem management (PA Consulting),Accepted
+8142,NL BIS Security health checks,BIS06 Security Management,Leven 8142 Issues out of health check on supplier; Meditel,Raised
+8144,NL BIS BLS Income,BIS06 Security Management,Inkomen 8144 Issues out Healch check on Supplier: Willis Tower Watson,Raised
+8144,NL BIS Security health checks,BIS06 Security Management,Inkomen 8144 Issues out Healch check on Supplier: Willis Tower Watson,Raised
+8166,NL BIS Security health checks,BIS06 Security Management,BIS 8166 Issues out health check on supplier: Aplaza,Raised
+8167,NL BIS BLS Income,BIS06 Security Management,Inkomen 8167 Issues out Health Check on supplier: Ascender,Raised
+8167,NL BIS Security health checks,BIS06 Security Management,Inkomen 8167 Issues out Health Check on supplier: Ascender,Raised
+8176,IT audit,BIS08 Requirements Management (Business Informatie,Missing design documentation for standards and regulation,Accepted
+8176,NL BIS MT,BIS08 Requirements Management (Business Informatie,Missing design documentation for standards and regulation,Accepted
+8177,IT audit,BIS09 Functional Change Management,Exceptions found in controlling the software development process,Accepted
+8178,NL BIS BLS Income,BIS06 Security Management,Inkomen 8178 Issues out of the health Check on Vendor; Benefit Plaza,Raised
+8178,NL BIS Security health checks,BIS06 Security Management,Inkomen 8178 Issues out of the health Check on Vendor; Benefit Plaza,Raised
+8192,NL BIS Security health checks,BIS06 Security Management,Sales 8192 Issues out the Health Checks on supplier; Ockto,Accepted
+8201,NL BIS DNB self assessment 2019,BIS06 Security Management,BIS 8201 Operational effectiveness for the unstructured data can not be demonstrated (DNB security self assessment 2019),Raised
+8201,NL BIS Security,BIS06 Security Management,BIS 8201 Operational effectiveness for the unstructured data can not be demonstrated (DNB security self assessment 2019),Raised
+8206,NL BIS Security health checks,BIS06 Security Management,BIS 8206 Issues out of Health Check on supplier; SalesForce,Accepted
+8222,IT audit,BIS06 Security Management,Lack of detecting malicious code,Accepted
+8222,NL BIS Security,BIS06 Security Management,Lack of detecting malicious code,Accepted
+8223,IT audit,BIS06 Security Management,Insufficient security by design,Accepted
+8224,IT audit,BIS06 Security Management,Incomplete testing of security,Raised
+8224,NL BIS Security,BIS06 Security Management,Incomplete testing of security,Raised
+8239,NL BIS BLS Income,BIS06 Security Management,Inkomen 8239 Issues out the Health Check on Vendor; Schouten Zekerheid,Raised
+8239,NL BIS Security health checks,BIS06 Security Management,Inkomen 8239 Issues out the Health Check on Vendor; Schouten Zekerheid,Raised
+8240,NL BIS BLS Income,BIS06 Security Management,Inkomen 8240 Issues out the Health Check on Vendor; Mercer,Raised
+8240,NL BIS Security health checks,BIS06 Security Management,Inkomen 8240 Issues out the Health Check on Vendor; Mercer,Raised
+8241,,BIS06 Security Management,Issues out the health Check on Vendor: VEC,Raised
+8243,NL BIS Security health checks,BIS06 Security Management,BIS 8243 Issue out the Health Check on vendor: Oracle,Raised
+8298,NL BIS CSS,BIS06 Security Management,BIS 8298 Multi Factor Authentication MijnAegon,Accepted
+8347,NL BIS Finance Data,BIS09 Functional Change Management,SOx Interim SOCD 2019 - Exception reporting Control BIS C147,Closed by Business
+8347,NL BIS Model Development en Run,BIS09 Functional Change Management,SOx Interim SOCD 2019 - Exception reporting Control BIS C147,Closed by Business
+8364,NL BIS BLS Income,BIS06 Security Management,Inkomen 8364 Issues out the Health Check on Vendor: AON,Raised
+8364,NL BIS Security health checks,BIS06 Security Management,Inkomen 8364 Issues out the Health Check on Vendor: AON,Raised
+8417,IT audit,BIS16 Infrastructure Operations,Lack of policy for access key management,Accepted
+8418,IT audit,BIS16 Infrastructure Operations,Lack of monitoring on security related events,Accepted
+8419,IT audit,BIS05 Continuity Management,Incomplete report of disaster recovery problems,Accepted
+8420,IT audit,BIS05 Continuity Management,Insufficient business input for continuity and disaster recovery,Accepted
+8421,IT audit,BIS05 Continuity Management,Lack of Cyber Security testing during disaster recovery,Accepted
+8422,IT audit,BIS05 Continuity Management,The scope limitations of the disaster recovery test are not formalized,Raised
+8455,NL BIS Platform management,BIS16 Infrastructure Operations,BIS 8455 Cloud Infrastructure controls need to be implemented,Raised
+8510,,BIS05 Continuity Management,BIS 8510 - Findings EDC DR test November 2019,Accepted

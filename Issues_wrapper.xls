@@ -1,0 +1,459 @@
+From: nobody
+To: nobody
+Subject: any subject
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="boundary-example";type="text/html"
+
+--boundary-example
+Content-Type: text/html; charset="utf-8"
+
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	</head><body>
+		<style id='additionalStyle'>
+
+ table.ReportTable { border-color:#D3D3D3; }
+ table.ReportTable td { border-color:#D3D3D3; }
+ tr.ReportHeader,  thead.ReportHeader { color:#50496A; font-weight: inherited;font-style: inherited; }
+ tr.ReportHeader td,  tr.ReportHeader th,  td.ReportHeader,  th.ReportHeader,  thead.ReportHeader td,  thead.ReportHeader th { color:#50496A; font-weight: inherited;font-style: inherited; }
+ tr.ReportItem  { color:#5B5B59; font-weight:normal; font-style:normal; }
+ td.ReportItem  { color:#5B5B59; }
+ tr.AlternatingItem  { color:#5B5B59; font-weight:normal; font-style:normal; }
+ td.AlternatingItem  { color:#5B5B59; }
+ tr.AlternatingItem,  td.AlternatingItem {  }
+ tr.AlternatingItem td.AlternatingItem { background-color:#F7F8FD; }
+ tr.AlternatingItem td,  td.AlternatingItem { background-color:#F7F8FD;  }
+ tr.ReportItem, td.ReportItem {  }
+ tr.ReportItem { background-color:#FFFFFF; }
+ tr.ReportItem > td,  td.ReportItem { background-color:#FFFFFF;  }
+ tr.ReportHeader,  td.ReportHeader {  }
+ tr.ReportHeader { background-color:#F5F6FA; font-weight: inherited;font-style: inherited; }
+ tr.ReportHeader td,  td.ReportHeader { background-color:#F5F6FA; font-weight: inherited;font-style: inherited; }
+@page Section1 {size:612pt 792pt;mso-page-orientation:portrait; }
+div {page:Section1; }
+
+/*CustomCssStart*/
+/* styling tags the header row*/     td.Header {    /*    /*set the OneSumX Logo*/    background-image: url(../images/navmenu/logo_OneSumX.png);     background-repeat: no-repeat;     /*padding for the logo so it doesn't appear over the header text */    margin-left:120px;     /*OneSumX is white so need a non-white background color */    background-color:#2C3E50;      /*Give some space for the Logo */    height: 40px;    */  }    /* styling tags the header cell*/    span.Header {    /*    /*padding to the left for the Logo*/    margin-left:120px;     /*set to white to match OneSumX logo */    color:white;      */  }   
+/*CustomCssEnd*/
+
+
+
+</style><!--[if IE]><style>
+
+
+
+</style><![endif]-->
+<style>
+	.ReportHeader td,.ReportItem td,.AlternatingItem td {border: 0.1pt solid #D3D3D3;}
+	.xls-percent{mso-number-format:'Percent';}
+	.xls-text{vnd.ms-excel.numberformat:@;}
+	.xls-l-text{vnd.ms-excel.numberformat:General;}
+	.xls-date{mso-number-format:'Short Date';}
+	.xls-time{mso-number-format:'Short Time';}
+	.xls-date-ShortDateFormat{mso-number-format:'dd/MM/yyyy';}
+	.xls-date-LongDateFormat{mso-number-format:'dd MMMM yyyy';}
+	.xls-date-ShortTimeFormat{mso-number-format:'HH:mm';}
+	.xls-date-LongTimeFormat{mso-number-format:'HH:mm:ss';}
+	.xls-date-FullShortFormat{mso-number-format:'dd MMMM yyyy HH:mm';}
+	.xls-date-FullLongFormat{mso-number-format:'dd MMMM yyyy HH:mm:ss';}
+	.xls-date-GenShortFormat{mso-number-format:'dd/MM/yyyy HH:mm';}
+	.xls-date-GenLongFormat{mso-number-format:'dd/MM/yyyy HH:mm:ss';}
+</style><style>table.ReportTable {
+    /*border: none 0 transparent;*/
+    border-collapse: collapse;
+    padding: 1px 4px;
+}
+    table.ReportTable td {
+        /*border: none 0 transparent;*/
+        padding: 5px;
+    }
+tr.ReportHeader td {
+    border-width: 1px;
+    border-style: solid;
+    font-size: 9pt;
+    font-weight: bold;
+    text-align: center;
+}
+tr.ReportItem td {
+	border-width:1px;
+	border-style:solid;
+	font-size: 8pt;
+    vertical-align:top;
+	}
+tr.AlternatingItem td {
+	border-width:1px;
+	border-style:solid;
+	font-size: 8pt;
+	vertical-align:top;
+    }
+tr.ReportFooter td {
+	border-width:1px;
+	border-style:solid;
+	font-size: 8pt;
+	font-weight:bold; 
+	vertical-align:top;
+    }
+span.Title {
+	font-size: 20pt;
+	font-weight: bold; 
+    }
+tr.VisualGroup tr {
+	border-width:3px;
+	cursor:pointer;
+	border-style:solid;
+    }
+tr.VisualGroup td {
+    padding-top: 10px;
+    border-right-style: solid;
+    border-right-width: 0px;
+}
+td {
+    font-size: 9pt;
+	}
+</style><style>table.fvTable,.fvTable
+{
+	width: 100%;
+	border-style: none;
+	border-width: 0px;
+	border: none;
+	margin-bottom: 10px;
+}
+
+.fvVgTable, .fvVgTable tr.fvVgRow, .fvVgTable tr.fvVgRow td,
+.fvVgTable > tr, .fvVgTable > tr > td
+{
+	border-style: none;
+	border-width: 0px;
+	border: none;
+}
+
+tr.fvRow, .fvRow
+{
+	background: white;
+	border-style: none;
+	border-width: 0px;
+	border: none;
+}
+
+tr.fvRow td.fvOddItem, tr.fvRow td.fvEvenItem, .fvOddItem, .fvEvenItem
+{
+	background: white;
+	border-width: 0px;
+	border-style: none;
+	border: none;
+	border-bottom: 1px gainsboro solid !important;
+	font-weight: normal !important;
+	font-family: 'Segoe UI',Arial,sans-serif;
+	padding: 2px 2px 2px 0px;
+	font-size: 10pt;
+}
+
+table.fvTable tbody tr.fvRow:last-child:not(:first-child) td.fvOddItem, table.fvTable tbody tr.fvRow:last-child:not(:first-child) td.fvEvenItem
+{
+	border-bottom: none !important;
+}
+
+tr.fvRow td.fvOddItem, .fvOddItem
+{
+	text-align: left;
+}
+
+tr.fvRow td.fvEvenItem, .fvEvenItem
+{
+	text-align: right;
+}
+
+tr.fvRow td.fvBlankItem, .fvRow, .fvBlankItem
+{
+	background: white;
+	border: none!important;
+}
+
+.VisualGroup tr
+{
+	border-width: 0px;
+	border-style: none;
+	border: none;
+}</style><div id="_ReportsDiv" onmouseover="" onmouseout=""><table style="width:100%;border:none;border-width:0;border-spacing:0;border-collapse:collapse;">
+	<tr>
+		<td style="padding:0;"><div style="width:100%;" report="Detail"><table style="border:none;border-width:0;border-spacing:0;border-collapse:collapse;">
+			<tr>
+				<td style="padding:0;"><div class='reportStyle1670969789'><table class="ReportTable SimpleGrid" cellspacing="0" name="reportTable" border="0" style="border-collapse:collapse;">
+	<tr class="ReportHeader">
+		<td align="center" class="xls-text"><nobr><div width="100%" height="100%"><div style='display:block; margin-right:0px; margin-left:0px;padding-left:4px;padding-right:4px;'><div style="display:inline-block;">Issue Id</div></div></div></nobr></td><td align="center" class="xls-text"><nobr><div width="100%" height="100%"><div style='display:block; margin-right:0px; margin-left:0px;padding-left:4px;padding-right:4px;'><div style="display:inline-block;">Title</div></div></div></nobr></td><td align="center" class="xls-text"><nobr><div width="100%" height="100%"><div style='display:block; margin-right:0px; margin-left:0px;padding-left:4px;padding-right:4px;'><div style="display:inline-block;">Organisation Unit Name</div></div></div></nobr></td><td align="center" class="xls-text"><nobr><div width="100%" height="100%"><div style='display:block; margin-right:0px; margin-left:0px;padding-left:4px;padding-right:4px;'><div style="display:inline-block;">Issue Title</div></div></div></nobr></td><td align="center" class="xls-text"><nobr><div width="100%" height="100%"><div style='display:block; margin-right:0px; margin-left:0px;padding-left:4px;padding-right:4px;'><div style="display:inline-block;">Issue Status</div></div></div></nobr></td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4012</td><td align="left" class="xls-text">ERM maturity</td><td align="left" class="xls-text">BIS07 Project Portfolio Management</td><td align="left" class="xls-text">BIS 4012 ERM assessment - Verbetering nodig in beheersing future fit projecten</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4012</td><td align="left" class="xls-text">ERM Maturity - Themes</td><td align="left" class="xls-text">BIS07 Project Portfolio Management</td><td align="left" class="xls-text">BIS 4012 ERM assessment - Verbetering nodig in beheersing future fit projecten</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4012</td><td align="left" class="xls-text">NL BIS ERM</td><td align="left" class="xls-text">BIS07 Project Portfolio Management</td><td align="left" class="xls-text">BIS 4012 ERM assessment - Verbetering nodig in beheersing future fit projecten</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4012</td><td align="left" class="xls-text">NL BIS PCO</td><td align="left" class="xls-text">BIS07 Project Portfolio Management</td><td align="left" class="xls-text">BIS 4012 ERM assessment - Verbetering nodig in beheersing future fit projecten</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4383</td><td align="left" class="xls-text">NL BIS Architectuur</td><td align="left" class="xls-text">BIS05 Continuity Management</td><td align="left" class="xls-text">BIS 4383 - Performance DR network </td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4383</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS05 Continuity Management</td><td align="left" class="xls-text">BIS 4383 - Performance DR network </td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4493</td><td align="left" class="xls-text"></td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 4439 - CMT exercise - exchange information between teams</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4495</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS05 Continuity Management</td><td align="left" class="xls-text">BIS 4495 - CMT exercise - logging and share information</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4526</td><td align="left" class="xls-text">NL BIS BLS Object</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 4526 Gevoelige data in URL websites</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4526</td><td align="left" class="xls-text">NL BIS MT</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 4526 Gevoelige data in URL websites</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4526</td><td align="left" class="xls-text">NL BIS Online</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 4526 Gevoelige data in URL websites</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4526</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 4526 Gevoelige data in URL websites</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4526</td><td align="left" class="xls-text">Privacy</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 4526 Gevoelige data in URL websites</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4726</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">IB&DP 4726 Primary focus on integrity during user access and not confidentiality or availability</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4733</td><td align="left" class="xls-text">NL BIS Platform management</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 4733 - Access reviews on IT4IT tooling incomplete (authorizations missing)</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4734</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 4734 - No security lifecycle control on encryption
+</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4736</td><td align="left" class="xls-text">NL BIS Platform management</td><td align="left" class="xls-text">BIS10  Release Management</td><td align="left" class="xls-text">BIS 4736 - UCD Snapshot not frozen
+</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4738</td><td align="left" class="xls-text">NL BIS D&I</td><td align="left" class="xls-text">BIS09 Functional Change Management</td><td align="left" class="xls-text">BIS 4738 Code Quality
+</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4738</td><td align="left" class="xls-text">NL BIS ITSM</td><td align="left" class="xls-text">BIS09 Functional Change Management</td><td align="left" class="xls-text">BIS 4738 Code Quality
+</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4741</td><td align="left" class="xls-text">NL BIS ITSM</td><td align="left" class="xls-text">BIS19 Service Request Management</td><td align="left" class="xls-text">BIS 4741 Service desk employees have high privilege accounts and are not monitored sufficiently
+</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4992</td><td align="left" class="xls-text">NL BIS DNB self assessment 2019</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 4992 Limited logging and monitoring</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4992</td><td align="left" class="xls-text">NL BIS ITCF</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 4992 Limited logging and monitoring</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">4992</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 4992 Limited logging and monitoring</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">4995</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 4995 Verbetering mogelijk in identity en access management</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">5171</td><td align="left" class="xls-text">NL BIS Platform management</td><td align="left" class="xls-text">BIS15 Operational Management and Monitoring</td><td align="left" class="xls-text">BIS 5171 Verbetering benodigd in (keten) monitoring</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">5171</td><td align="left" class="xls-text">NL BIS SEA</td><td align="left" class="xls-text">BIS15 Operational Management and Monitoring</td><td align="left" class="xls-text">BIS 5171 Verbetering benodigd in (keten) monitoring</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">5277</td><td align="left" class="xls-text">NL BIS Architectuur</td><td align="left" class="xls-text">BIS03 Architecture</td><td align="left" class="xls-text">BIS 5277 Verbetering nodig in bewaking architectuur naleving tijdens changes</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">5279</td><td align="left" class="xls-text">NL BIS Architectuur</td><td align="left" class="xls-text">BIS03 Architecture</td><td align="left" class="xls-text">BIS 5279 Verbetering nodig in monitoring gebruik architectuur standaarden
+</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">6010</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 6010 - Add service accounts to the scope of BISC088 and C114</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">6014</td><td align="left" class="xls-text">NL BIS ITCF</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 6014 - Drupal needs to kill (if possible) the user session when inactive</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">6037</td><td align="left" class="xls-text">NL BIS ITCF</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 6037 Insufficient management of shared access account</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">6037</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 6037 Insufficient management of shared access account</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">6052</td><td align="left" class="xls-text">NL BIS ITCF</td><td align="left" class="xls-text">BIS09 Functional Change Management</td><td align="left" class="xls-text">HR 6052 Workday - Testen met geanonimiseerde data is niet gegarandeerd </td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">6052</td><td align="left" class="xls-text">Privacy</td><td align="left" class="xls-text">BIS09 Functional Change Management</td><td align="left" class="xls-text">HR 6052 Workday - Testen met geanonimiseerde data is niet gegarandeerd </td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">6768</td><td align="left" class="xls-text">NL BIS ITCF</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">HR 6768 VerzuimXpert, Connexys en Lifeguard - Niet alle toegangsrechten verlopen via IMG</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">6769</td><td align="left" class="xls-text">NL BIS ITCF</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">HR 6769 VerzuimXpert, Connexys en Lifeguard - Screen Lockout settings</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">6769</td><td align="left" class="xls-text">NL BIS SEA</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">HR 6769 VerzuimXpert, Connexys en Lifeguard - Screen Lockout settings</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">6770</td><td align="left" class="xls-text">NL BIS ITCF</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">HR 6770 Integration Gateway</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">6770</td><td align="left" class="xls-text">NL BIS SEA</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">HR 6770 Integration Gateway</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">6956</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 6956 Not all privileged accounts are structurally logged and monitored</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">6956</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 6956 Not all privileged accounts are structurally logged and monitored</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">6957</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 6957 Service accounts are not fully part of the formal identity and access management controls</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">6957</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">BIS 6957 Service accounts are not fully part of the formal identity and access management controls</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7005</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS05 Continuity Management</td><td align="left" class="xls-text">BIS 7005 - Failed applications DR test March 2019</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7050</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS09 Functional Change Management</td><td align="left" class="xls-text">FS 7050 - CASE CENTRAAL - ITCF assessment 2019Q1 - lacking access and change management controls </td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7056</td><td align="left" class="xls-text">NL BIS ITCF</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">LB 7056 - AELINK - ITCF assessment 2019Q1 - Lacking access and change management controls</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7057</td><td align="left" class="xls-text">NL BIS ITCF</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">LB 7057 - SERVICENET - ITCF assessment 2019Q1 - Lacking access and change management controls</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7059</td><td align="left" class="xls-text">NL BIS ITCF</td><td align="left" class="xls-text">BIS10  Release Management</td><td align="left" class="xls-text">BIS 7059 - MFR applications - ITCF assessment 2018Q4 - Lacking source code access control</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7059</td><td align="left" class="xls-text">NL BIS Platform management</td><td align="left" class="xls-text">BIS10  Release Management</td><td align="left" class="xls-text">BIS 7059 - MFR applications - ITCF assessment 2018Q4 - Lacking source code access control</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7059</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS10  Release Management</td><td align="left" class="xls-text">BIS 7059 - MFR applications - ITCF assessment 2018Q4 - Lacking source code access control</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7161</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">FB 7161 Security Test Paragon</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7555</td><td align="left" class="xls-text">NL BIS SEA</td><td align="left" class="xls-text">BIS17 Identity and Access Management</td><td align="left" class="xls-text">SOx SOCD Interim 2019: no follow up on interface Workday-IGL</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7839</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS05 Continuity Management</td><td align="left" class="xls-text">BIS 7839 Rol NL BCM bij analyse en correctieve acties cyber aanvallen niet duidelijk</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7904</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">FS 7904 Issue out of health check on supplier BaaB Claimcare</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7925</td><td align="left" class="xls-text">NL BIS Platform management</td><td align="left" class="xls-text">BIS10  Release Management</td><td align="left" class="xls-text">BIS 7925 Inbeheername checklist</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7972</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 7972 Issues out of health check on supplier LIJV</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7972</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 7972 Issues out of health check on supplier LIJV</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7975</td><td align="left" class="xls-text">NL BIS SEA</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">HR 7975 Issue out of health check on supplier Springest</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7975</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">HR 7975 Issue out of health check on supplier Springest</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7983</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 7983 Inadequate assessment and incomplete escalation of vulnerabilities</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7983</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 7983 Inadequate assessment and incomplete escalation of vulnerabilities</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7984</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 7984 Inadequate description of procedures, roles and responsibilities regarding vulnerabilities</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7984</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 7984 Inadequate description of procedures, roles and responsibilities regarding vulnerabilities</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7985</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 7985 Lack of completeness of asset inventories</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7995</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Hypotheken 7995 Issues out of health check on HDN Beheer</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7996</td><td align="left" class="xls-text">NL BIS DNB self assessment 2019</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 7996 No monitoring if pentests are planned according to policy</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">7996</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 7996 No monitoring if pentests are planned according to policy</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">7998</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 7998 Issues out of health check on supplier EY</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8021</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 8021Issues out of health check on supplier Capgemini</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8022</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8022 Issues out of the health check supplier Ergatis
+</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8022</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8022 Issues out of the health check supplier Ergatis
+</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8035</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8035  Issues out of health check on supplier Regio Poortwachters .</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8035</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8035  Issues out of health check on supplier Regio Poortwachters .</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8048</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 8048 Lack of security metrics (EY capability assessment)</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8058</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8058 Issues out of Health check on supplier  Condite B.V.</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8058</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8058 Issues out of Health check on supplier  Condite B.V.</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8094</td><td align="left" class="xls-text">NL BIS DNB self assessment 2019</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 8094 Implementation of secret management is not monitored (EY capability assessment)</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8094</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 8094 Implementation of secret management is not monitored (EY capability assessment)</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8096</td><td align="left" class="xls-text">NL BIS DNB self assessment 2019</td><td align="left" class="xls-text">BIS04 Quality management</td><td align="left" class="xls-text">BIS 8096 No central monitoring over the application life cycles.</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8096</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS04 Quality management</td><td align="left" class="xls-text">BIS 8096 No central monitoring over the application life cycles.</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8101</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8101 Issues out of Health check on supplier; Pensioen B.V.</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8101</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8101 Issues out of Health check on supplier; Pensioen B.V.</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8103</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8103 Issues out of health check on supplier;  Engage Werkgeversadvies B.V.</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8103</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8103 Issues out of health check on supplier;  Engage Werkgeversadvies B.V.</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8104</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8104 Issues out of health check on supplier; Welke professional</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8104</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8104 Issues out of health check on supplier; Welke professional</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8141</td><td align="left" class="xls-text">NL BIS ITSM</td><td align="left" class="xls-text">BIS13 Problem Management</td><td align="left" class="xls-text">BIS 8141 Verbetering op problem management (PA Consulting)</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8142</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Leven 8142  Issues out of health check on supplier; Meditel </td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8144</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8144 Issues out Healch check on Supplier: Willis Tower Watson
+</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8144</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8144 Issues out Healch check on Supplier: Willis Tower Watson
+</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8166</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 8166 Issues out health check on supplier: Aplaza</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8167</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8167 Issues out Health Check on supplier: Ascender</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8167</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8167 Issues out Health Check on supplier: Ascender</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8176</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS08 Requirements Management (Business Informatie</td><td align="left" class="xls-text">Missing design documentation for standards and regulation</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8176</td><td align="left" class="xls-text">NL BIS MT</td><td align="left" class="xls-text">BIS08 Requirements Management (Business Informatie</td><td align="left" class="xls-text">Missing design documentation for standards and regulation</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8177</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS09 Functional Change Management</td><td align="left" class="xls-text">Exceptions found in controlling the software development process</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8178</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8178 Issues out of the health Check on Vendor; Benefit Plaza</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8178</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8178 Issues out of the health Check on Vendor; Benefit Plaza</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8192</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Sales 8192 Issues out the Health Checks on supplier; Ockto</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8201</td><td align="left" class="xls-text">NL BIS DNB self assessment 2019</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 8201 Operational effectiveness for the unstructured data can not be demonstrated (DNB security self assessment 2019)</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8201</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 8201 Operational effectiveness for the unstructured data can not be demonstrated (DNB security self assessment 2019)</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8206</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 8206 Issues out of Health Check on supplier; SalesForce</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8222</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Lack of detecting malicious code</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8222</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Lack of detecting malicious code</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8223</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Insufficient security by design</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8224</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Incomplete testing of security</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8224</td><td align="left" class="xls-text">NL BIS Security</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Incomplete testing of security</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8239</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8239 Issues out the Health Check on Vendor; Schouten Zekerheid</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8239</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8239 Issues out the Health Check on Vendor; Schouten Zekerheid</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8240</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8240 Issues out the Health Check on Vendor; Mercer</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8240</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8240 Issues out the Health Check on Vendor; Mercer</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8241</td><td align="left" class="xls-text"></td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Issues out the health Check on Vendor: VEC</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8243</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 8243 Issue out the Health Check on vendor: Oracle</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8298</td><td align="left" class="xls-text">NL BIS CSS</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">BIS 8298 Multi Factor Authentication MijnAegon</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8347</td><td align="left" class="xls-text">NL BIS Finance Data</td><td align="left" class="xls-text">BIS09 Functional Change Management</td><td align="left" class="xls-text">SOx Interim SOCD 2019 - Exception reporting Control BIS C147</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8347</td><td align="left" class="xls-text">NL BIS Model Development en Run</td><td align="left" class="xls-text">BIS09 Functional Change Management</td><td align="left" class="xls-text">SOx Interim SOCD 2019 - Exception reporting Control BIS C147</td><td align="left" class="xls-text">Closed by Business</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8364</td><td align="left" class="xls-text">NL BIS BLS Income</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8364 Issues out the Health Check on Vendor: AON</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8364</td><td align="left" class="xls-text">NL BIS Security health checks</td><td align="left" class="xls-text">BIS06 Security Management</td><td align="left" class="xls-text">Inkomen 8364 Issues out the Health Check on Vendor: AON</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8417</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS16 Infrastructure Operations</td><td align="left" class="xls-text">Lack of policy for access key management</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8418</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS16 Infrastructure Operations</td><td align="left" class="xls-text">Lack of monitoring on security related events</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8419</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS05 Continuity Management</td><td align="left" class="xls-text">Incomplete report of disaster recovery problems</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8420</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS05 Continuity Management</td><td align="left" class="xls-text">Insufficient business input for continuity and disaster recovery</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8421</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS05 Continuity Management</td><td align="left" class="xls-text">Lack of Cyber Security testing during disaster recovery</td><td align="left" class="xls-text">Accepted</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8422</td><td align="left" class="xls-text">IT audit</td><td align="left" class="xls-text">BIS05 Continuity Management</td><td align="left" class="xls-text">The scope limitations of the disaster recovery test are not formalized</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="ReportItem">
+		<td align="right" class="xls-text">8455</td><td align="left" class="xls-text">NL BIS Platform management</td><td align="left" class="xls-text">BIS16 Infrastructure Operations</td><td align="left" class="xls-text">BIS 8455 Cloud Infrastructure controls need to be implemented
+</td><td align="left" class="xls-text">Raised</td>
+	</tr><tr class="AlternatingItem">
+		<td align="right" class="xls-text">8510</td><td align="left" class="xls-text"></td><td align="left" class="xls-text">BIS05 Continuity Management</td><td align="left" class="xls-text">BIS 8510 - Findings EDC DR test November 2019</td><td align="left" class="xls-text">Accepted</td>
+	</tr>
+</table></div></td>
+			</tr>
+		</table>
+		</div></td>
+	</tr>
+</table>
+</div>
+	</body>
+</html>
+
+--boundary-example--
